@@ -1,0 +1,19 @@
+# ESP-IDF build outputs
+build/
+managed_components/
+
+# Local editor files
+.vscode/
+.idea/
+
+# Python cache/test artifacts
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
